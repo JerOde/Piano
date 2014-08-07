@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Sonido</name>
+    <name>Piano</name>
 
     <description>
-        Ejemplo para utilizar Plugins
+        Simulador de piano
     </description>
 
     <preference name="phonegap-version" value="3.1.0" />
